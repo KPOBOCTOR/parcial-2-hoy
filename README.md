@@ -5,6 +5,14 @@ jasson ali ramos guandique
 melvin alexis jimenez lopez
 
 
+las tablas no se pueden acomodar como tienen que ser
+
+
+
+usuario: admin
+password: 1234
+
+
 
 
 
